@@ -1,7 +1,7 @@
-# Test Case: TC010 - Login with Special Characters
+# Test Case: TC009 - Login with Special Characters
 
 **Feature:** Login Page  
-**Test Case ID:** TC010  
+**Test Case ID:** TC009  
 **Priority:** Medium  
 
 **Steps to Execute:**
