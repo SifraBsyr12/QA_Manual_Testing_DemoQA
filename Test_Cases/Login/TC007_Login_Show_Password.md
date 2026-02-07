@@ -13,10 +13,10 @@
 Password should be visible in plain text.
 
 **Actual Result:**  
-(To be filled after execution)  
+Show Password (eye) icon is not available on the login page.  
 
 **Status:**  
-(Fail)  
+Fail 
 
 **Notes / Screenshots:**  
 - Screenshot path: `../Screenshots/TC007_Login_Show_Password.png`

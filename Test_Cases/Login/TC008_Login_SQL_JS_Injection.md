@@ -14,10 +14,10 @@
 Login should be blocked or error message appears.
 
 **Actual Result:**  
-(To be filled after execution)  
+Error message appeared  
 
 **Status:**  
-(Pass)  
+Pass  
 
 **Notes / Screenshots:**  
 - Screenshot path: `../Screenshots/TC008_Login_SQL_JS_Injection.png`

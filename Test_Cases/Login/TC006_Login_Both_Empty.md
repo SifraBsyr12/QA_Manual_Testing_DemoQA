@@ -13,10 +13,10 @@
 Error message: “Username & Password required” appears.
 
 **Actual Result:**  
-(To be filled after execution)  
+Required field indicator (*) appeared for username and password fields, but no error message text was displayed
 
 **Status:**  
-(Pass)  
+Fail  
 
 **Notes / Screenshots:**  
 - Screenshot path: `../Screenshots/TC006_Login_Both_Empty.png`
