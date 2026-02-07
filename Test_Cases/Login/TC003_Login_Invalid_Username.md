@@ -18,7 +18,7 @@ Error message: “Invalid credentials” appears. User should not login.
 (To be filled after execution)  
 
 **Status:**  
-(Pass)  
+Pass  
 
 **Notes / Screenshots:**  
 - Screenshot path: `../Screenshots/TC003_Login_Invalid_Username.png`
