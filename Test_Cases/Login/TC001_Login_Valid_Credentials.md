@@ -7,8 +7,8 @@
 
 **Steps to Execute:**
 1. Go to [https://demoqa.com/login](https://demoqa.com/login)  
-2. Enter username: `demoUser`  
-3. Enter password: `demoPass`  
+2. Enter username: `SifraBasayar`  
+3. Enter password: `@Sif12345`  
 4. Click **Login**  
 
 **Expected Result:**  
@@ -18,7 +18,7 @@ User should be logged in successfully and redirected to dashboard/home page.
 (To be filled after execution)  
 
 **Status:**  
-(Pass/Fail)  
+(Pass)  
 
 **Notes / Screenshots:**  
 - Screenshot path: `../Screenshots/TC001_Login_Valid.png`
