@@ -14,10 +14,10 @@
 Error message: “Password required” appears.
 
 **Actual Result:**  
-(To be filled after execution)  
+Username field was highlighted in red, but no error message text was displayed.
 
 **Status:**  
-(Pass)  
+Fail  
 
 **Notes / Screenshots:**  
 - Screenshot path: `../Screenshots/TC005_Login_Empty_Password.png`

@@ -15,10 +15,11 @@
 User should be logged in successfully and redirected to dashboard/home page.
 
 **Actual Result:**  
-(To be filled after execution)  
+User should be logged in successfully and redirected to dashboard/home page.
+
 
 **Status:**  
-(Pass)  
+Pass  
 
 **Notes / Screenshots:**  
 - Screenshot path: `../Screenshots/TC001_Login_Valid.png`

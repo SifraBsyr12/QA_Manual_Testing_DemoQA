@@ -14,10 +14,10 @@
 Error message: “Username required” appears.
 
 **Actual Result:**  
-(To be filled after execution)  
+Username field was highlighted in red, but no error message text was displayed.
 
 **Status:**  
-(Pass)  
+fail  
 
 **Notes / Screenshots:**  
 - Screenshot path: `../Screenshots/TC004_Login_Empty_Username.png`

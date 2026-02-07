@@ -14,10 +14,10 @@
 Error message: “Invalid credentials” appears. User should not login.
 
 **Actual Result:**  
-(To be filled after execution)  
+Error message: “Invalid usename or password” appeared 
 
 **Status:**  
-(Pass)  
+Pass  
 
 **Notes / Screenshots:**  
 - Screenshot path: `../Screenshots/TC002_Invalid Password.png`
